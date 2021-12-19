@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrouge_site=self.webpackChunkrouge_site||[]).push([[160],{8050:function(e,n,t){t.r(n);var a=t(7294),c=t(1199),l=t(3751),r=t(602).Z[2021][12][0];n.default=function(){return a.createElement(c.Z,null,a.createElement(l.Z,{title:"p1",description:"ending lines of Uncle Vanya by Checkhov",lang:"zh-Hans"}),r.header,r.content)}}}]);
+//# sourceMappingURL=component---src-pages-articles-2021-dec-uncle-vanya-js-d708116212acc4463336.js.map
