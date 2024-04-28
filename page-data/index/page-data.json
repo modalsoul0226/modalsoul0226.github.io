@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-index-js",
-    "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": ["3000541721"]}
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"slug":"/columbia","title":"先拿下哥伦比亚","titleOriginal":"First We Take Columbia","author":"Anonymous","date":"2024-04-27T00:00:00.000Z","category":0,"year":2024}}},{"node":{"frontmatter":{"slug":"/tel-quel","title":"如此","titleOriginal":"The Revolution Here Now: Seven Points","author":"Tel Quel","date":"2024-04-28T00:00:00.000Z","category":0,"year":1968}}}]}},"pageContext":{}},"staticQueryHashes":["3000541721"],"slicesMap":{}}
